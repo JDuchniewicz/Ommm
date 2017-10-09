@@ -1,4 +1,4 @@
-#Ommm
+Ommm
 =====
 Global Game Jam 2017 Side scroller- voice controlled game
 
@@ -14,14 +14,25 @@ The main rules of the game are as follows:
 * The overall benefit from playing the game is increasing one's lungs capacity!
 
 
-###Team members:
+### Team members:
 * Dariusz Ruta – programming and system maintenance
 * Filip Kwapisz – programming and design 
 * Jakub Duchniewicz – programming and audio
 * Mateusz Dragwa – 2D art and audio
 * Michał Chmielewski – 2D art and UI
 
+###You can see more about the game and download source files via GGJ website:
+I'm an inline-style link](https://globalgamejam.org/2017/games/ommmm)
 
-###Below you can find some stills from the game
 
+### Below you can find some stills from the game
+
+![alt text](https://github.com/JDuchniewicz/Ommm/blob/master/omm1.png "Main")
+
+![alt text](https://github.com/JDuchniewicz/Ommm/blob/master/omm2.png "Game")
+
+![alt text](https://github.com/JDuchniewicz/Ommm/blob/master/omm3.png "Game 2")
+
+### And finally our team!
+![alt text](https://github.com/JDuchniewicz/Ommm/blob/master/teamomm.jpg "Team")
 
