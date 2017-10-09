@@ -21,7 +21,7 @@ The main rules of the game are as follows:
 * Mateusz Dragwa – 2D art and audio
 * Michał Chmielewski – 2D art and UI
 
-###You can see more about the game and download source files via GGJ website:
+### You can see more about the game and download source files via GGJ website:
 I'm an inline-style link](https://globalgamejam.org/2017/games/ommmm)
 
 
